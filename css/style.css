@@ -28,6 +28,10 @@ body {
           flex-direction: column;
 }
 
+.logo img {
+  max-width: 100%;
+}
+
 .header {
   font-size: medium;
 }
@@ -87,6 +91,10 @@ body {
           flex-direction: column;
 }
 
+.article img {
+  max-width: 100%;
+}
+
 .article3 {
   padding-top: 50px;
   padding-bottom: 50px;
@@ -104,6 +112,10 @@ body {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
+}
+
+.article3 img {
+  max-width: 100%;
 }
 
 @media only screen and (max-width: 740px) {
