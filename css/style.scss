@@ -1,5 +1,5 @@
 body{
-    background-image: url("doodles.png");
+    background-color: rgb(255, 255, 255);
     font-family: 'Open Sans Condensed', sans-serif;
   }
 
@@ -41,7 +41,7 @@ body{
 .opisy{
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-evenly;
     border:1px solid black;
     padding-bottom: 10px;
 
